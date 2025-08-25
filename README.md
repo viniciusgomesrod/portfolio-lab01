@@ -9,7 +9,6 @@ O site está organizado nas seguintes seções:
 - 🎓 **Acadêmico** – Um panorama da minha trajetória acadêmica em Engenharia de Software, incluindo disciplinas concluídas, notas individuais e coeficiente de rendimento.
 - 💼 **Experiência** – Um resumo das minhas experiências profissionais, destacando funções, responsabilidades e resultados alcançados.
 - 📬 **Contato** – Formas de entrar em contato comigo para colaborações, oportunidades ou parcerias.
-- 📄 **Currículo** – Disponível para download em formato PDF, com detalhes sobre minha formação, experiência e habilidades.
 
 ---
 
