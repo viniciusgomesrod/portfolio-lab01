@@ -26,7 +26,7 @@ function Header({ activeSection, onNavigate }) {
 
   return (
     <header className="header">
-      <div className="logo">Thomás Ramos Oliveira</div>
+      <div className="logo">Vinicius Gomes Rodrigues</div>
       
       <nav>
         <ul>
@@ -57,3 +57,4 @@ function Header({ activeSection, onNavigate }) {
 }
 
 export default Header;
+
